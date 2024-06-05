@@ -10,3 +10,7 @@ cd LHAPDF-6.X.Y
 ./configure --prefix=/path/for/installation
 make
 make install
+
+lhapdf --version
+
+sudo ln -s /usr/bin/python3 /usr/bin/python
