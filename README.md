@@ -8,7 +8,7 @@ export PYTHONPATH=/home/cid/for/installation/local/lib/python3.10/dist-packages:
 
 wget https://lhapdf.hepforge.org/downloads/?f=LHAPDF-6.X.Y.tar.gz -O LHAPDF-6.X.Y.tar.gz
 
- # or use a web browser to download, which will get the filename correct
+ or use a web browser to download, which will get the filename correct
 
 tar xf LHAPDF-6.X.Y.tar.gz
 
